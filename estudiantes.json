@@ -1,0 +1,55 @@
+[
+    {
+        "documento": "1001",
+        "nombre": "Angie",
+        "apellido": "Gomez",
+        "correo": "angie@gmail.com",
+        "edad": 18,
+        "direccion":{
+            "departamento": "Cauca",
+            "ciudad": "Popayan",
+            "codigo_postal": "190001"
+        },
+        "cursos_inscritos": ["MongoDB", "Python Basico"]   
+    },
+    {
+         "documento": "1002",
+        "nombre": "Johana",
+        "apellido": "Santacruz",
+        "correo": "johasantac@gmail.com",
+        "edad": 27,
+        "direccion":{
+            "departamento": "Valle",
+            "ciudad": "Cali",
+            "codigo_postal": "760001"
+        },
+        "cursos_inscritos": ["MongoDB", "Java"]   
+    },
+    {
+         "documento": "1003",
+        "nombre": "Ainara",
+        "apellido": "Landinez",
+        "correo": "ainara@gmail.com",
+        "edad": 19,
+        "direccion":{
+            "departamento": "Nariño",
+            "ciudad": "Pasto",
+            "codigo_postal": "520001"
+        },
+        "cursos_inscritos": ["Java", "Python Basico"]   
+    },
+        {
+         "documento": "1004",
+        "nombre": "Jhon",
+        "apellido": "Ramos",
+        "correo": "jhon@gmail.com",
+        "edad": 25,
+        "direccion":{
+            "departamento": "Antioquia",
+            "ciudad": "Medellin",
+            "codigo_postal": "050001"
+        },
+        "cursos_inscritos": ["Python Basico"]   
+    }
+
+]

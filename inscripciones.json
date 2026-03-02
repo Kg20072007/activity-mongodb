@@ -1,0 +1,52 @@
+[
+  {
+    "documento": "1001",
+    "curso": "MongoDB",
+    "fecha_inscripcion": "2026-02-01",
+    "estado": "Activo",
+    "pago": {
+      "valor_pagado": 460000,
+      "metodo": "Nequi"
+    }
+  },
+  {
+    "documento": "1002",
+    "curso": "Python Básico",
+    "fecha_inscripcion": "2024-02-05",
+    "estado": "Activo",
+    "pago": {
+      "valor_pagado": 120000,
+      "metodo": "Debito"
+    }
+  },
+  {
+    "documento": "1003",
+    "curso": "Java",
+    "fecha_inscripcion": "2025-03-10",
+    "estado": "Finalizado",
+    "pago": {
+      "valor_pagado": 100000,
+      "metodo": "Transferencia"
+    }
+  },
+  {
+    "documento": "1004",
+    "curso": "MongoDB",
+    "fecha_inscripcion": "2026-02-12",
+    "estado": "Activo",
+    "pago": {
+      "valor_pagado": 250000,
+      "metodo": "Nequi"
+    }
+  },
+  {
+    "documento": "1005",
+    "curso": "Python Básico",
+    "fecha_inscripcion": "2026-02-15",
+    "estado": "Activo",
+    "pago": {
+      "valor_pagado": 120000,
+      "metodo": "Efectivo"
+    }
+  }
+]

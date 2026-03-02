@@ -1,0 +1,7 @@
+[
+  { "documento": "1001", "curso": "MongoDB", "nota_final": 4.5 },
+  { "documento": "1002", "curso": "Python Básico", "nota_final": 4.8 },
+  { "documento": "1003", "curso": "Java", "nota_final": 5.0 },
+  { "documento": "1004", "curso": "MongoDB", "nota_final": 3.4 },
+  { "documento": "1005", "curso": "Python Básico", "nota_final": 1.9 }
+]

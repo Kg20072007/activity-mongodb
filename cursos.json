@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "MongoDB",
+    "categoria": "Base de Datos",
+    "nivel": "Intermedio",
+    "precio": 460000,
+    "duracion": "20 horas",
+    "instructor": {
+      "nombre": "Viviana Gomez",
+      "experiencia": 3
+    }
+  },
+  {
+    "nombre": "Python Básico",
+    "categoria": "Programación",
+    "nivel": "Básico",
+    "precio": 120000,
+    "duracion": "30 horas",
+    "instructor": {
+      "nombre": "Paula Gomez",
+      "experiencia": 5
+    }
+  },
+  {
+    "nombre": "Java",
+    "categoria": "Programación",
+    "nivel": "Intermedio",
+    "precio": 100000,
+    "duracion": "50 horas",
+    "instructor": {
+      "nombre": "Marco Galvis",
+      "experiencia": 4
+    }
+  },
+  {
+    "nombre": "Desarrollo Web",
+    "categoria": "Web",
+    "nivel": "Avanzado",
+    "precio": 700000,
+    "duracion": "60 horas",
+    "instructor": {
+      "nombre": "Luisa Velez",
+      "experiencia": 6
+    }
+  },
+  {
+    "nombre": "SQL",
+    "categoria": "Base de Datos",
+    "nivel": "Básico",
+    "precio": 250000,
+    "duracion": "35 horas",
+    "instructor": {
+      "nombre": "Jesus Urbano",
+      "experiencia": 2
+    }
+  }
+]
