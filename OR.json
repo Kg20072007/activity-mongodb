@@ -1,0 +1,6 @@
+{
+  "$or": [
+    { "nivel": "Intermedio" },
+    { "precio": { "$lte": 150000 } }
+  ]
+}

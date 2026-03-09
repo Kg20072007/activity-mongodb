@@ -1,0 +1,6 @@
+{
+  "$and": [
+    { "estado": "Activo" },
+    { "pago.valor_pagado": { "$gte": 200000 } }
+  ]
+}

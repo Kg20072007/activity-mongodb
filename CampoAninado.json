@@ -1,0 +1,3 @@
+{
+  "instructor.experiencia": { "$gte": 3 }
+}

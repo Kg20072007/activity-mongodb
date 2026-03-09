@@ -1,0 +1,6 @@
+{
+  "$and": [
+    { "nivel": "Intermedio" },
+    { "precio": { "$gte": 200000 } }
+  ]
+}
